@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4775978_0003.png"; bbox 0 0 3480 4479; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 544 429 2856 618">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 544 429 2856 618">
+     <span class='ocr_line' id='line_1_1' title="bbox 544 429 2856 618; baseline 0.009 -50"><span class='ocrx_word' id='word_1_1' title='bbox 544 429 1430 582; x_wconf 85' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1548 441 2440 618; x_wconf 77' lang='lat' dir='ltr'>Kohlmann,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2504 446 2856 590; x_wconf 82' lang='lat' dir='ltr'>Paul</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 541 610 1445 634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 541 610 1445 634">
+     <span class='ocr_line' id='line_1_2' title="bbox 541 610 1445 634; baseline 0 3845"><span class='ocrx_word' id='word_1_4' title='bbox 541 610 1445 634; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 539 1131 2152 1514">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 539 1131 2152 1514">
+     <span class='ocr_line' id='line_1_3' title="bbox 541 1131 2152 1286; baseline 0.012 -19"><span class='ocrx_word' id='word_1_5' title='bbox 541 1131 1139 1275; x_wconf 90' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1258 1140 1487 1280; x_wconf 83' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_7' title='bbox 1551 1140 2152 1286; x_wconf 82' lang='lat' dir='ltr'>scholiis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 539 1360 1438 1514; baseline 0.014 -13"><span class='ocrx_word' id='word_1_8' title='bbox 539 1360 1438 1514; x_wconf 79' lang='lat' dir='ltr'>Theocriteis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 533 1311 1154 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 533 1311 1154 1329">
+     <span class='ocr_line' id='line_1_5' title="bbox 533 1311 1154 1329; baseline 0 3150"><span class='ocrx_word' id='word_1_9' title='bbox 533 1311 1154 1329; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 526 2065 2152 2217">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 526 2065 2152 2217">
+     <span class='ocr_line' id='line_1_6' title="bbox 526 2065 2152 2217; baseline 0.011 -17"><span class='ocrx_word' id='word_1_10' title='bbox 526 2065 1208 2209; x_wconf 85' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_11' title='bbox 1323 2073 2152 2217; x_wconf 79' lang='lat' dir='ltr'>Neustettin</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 522 2245 1222 2264">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 522 2245 1222 2264">
+     <span class='ocr_line' id='line_1_7' title="bbox 522 2245 1222 2264; baseline 0 2215"><span class='ocrx_word' id='word_1_12' title='bbox 522 2245 1222 2264; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 517 2766 1594 2915">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 517 2766 1594 2915">
+     <span class='ocr_line' id='line_1_8' title="bbox 517 2766 1594 2915; baseline 0.01 -13"><span class='ocrx_word' id='word_1_13' title='bbox 517 2766 1097 2911; x_wconf 84' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1239 2771 1594 2915; x_wconf 81' lang='lat'>1881</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 512 2947 1111 2965">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 512 2947 1111 2965">
+     <span class='ocr_line' id='line_1_9' title="bbox 512 2947 1111 2965; baseline 0 1514"><span class='ocrx_word' id='word_1_15' title='bbox 512 2947 1111 2965; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
